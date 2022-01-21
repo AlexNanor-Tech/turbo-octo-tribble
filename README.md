@@ -7,3 +7,7 @@ In this project I was able to:
 - Conduct an EDA to visualize data and observe structure 
 - Train a classifier (decison tree)
 - Predict a target using the trained classifier 
+
+
+
+source: www.youtube.com
